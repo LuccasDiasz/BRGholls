@@ -1,5 +1,5 @@
-- EU sou o Lucas tenho 17 anos, sou um gamedev de nivel intermediario, ainda tenho muito o que aprender mas ainda sim consigo me virar nos meu projetos.
-
+- Eu sou o Lucas tenho 17 anos, sou um gamedev de nivel intermediario, ainda tenho muito o que aprender mas ainda sim consigo me virar nos meu projetos.
+- Segundo ano do ensino médio.
 
 <!---
 BRGholls/BRGholls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
